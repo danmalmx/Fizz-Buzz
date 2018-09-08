@@ -31,7 +31,7 @@
 
 ##### When we run a test, we are expecting a certain outcome (which then makes the test 'pass'). Expectations is the line of code we write to tell the test what a "correct answer" should equate to. 
 
-### Question 6
+### Question 7
 
 ##### document.addEventListener('DOMContentLoaded) - here we are telling the browser to load the html into the DOM and then create a function (() => {})
 ##### let button = document.getElementById('button') - here we are setting a changeble variable (button) to equate to the button id we have crrated on the html. 
@@ -41,3 +41,8 @@
 ##### let fizzBuzz = new fizzBuzz - here we create a new instance of the "fizzBuzz" class (I think...)
 ##### let result = fizzBuzz.check(value) - here we set a new variable (result) to evaluate the input number (value) and check that on our fizzBuzz function 
 ##### displayDv.innerHTML = result; - here we say that the browser should putpiut the resul of our variable result (e.g, fizz, buzz, fizzbuzz or the numnber) 
+
+
+### Question 8
+
+##### 
