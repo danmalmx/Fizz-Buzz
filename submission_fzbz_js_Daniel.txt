@@ -1,0 +1,2 @@
+Repo: https://github.com/danmalmx/fizz_buzz_js
+Web: https://danmalmx.github.io/fizz_buzz_js/
