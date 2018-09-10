@@ -9,8 +9,6 @@ function FizzBuzz() {
             return 'Buzz';
         } else if (number % 3 === 0) {
             return 'Fizz';
-        } else if ((isNaN(number))) {
-            return 'That is not a number!'
         } else {
             return number;
         }
