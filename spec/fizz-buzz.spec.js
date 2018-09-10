@@ -23,4 +23,8 @@ describe('Fizz Buzz', () => {
         expect(fizzBuzz.check(0)).to.eql('Positive integers only')
     });
 
+    it ('returns "That is not a number!" if a NaN is used', () => {
+        expect(fizzBuzz.check("dasdkj")).to.eql('That is not a number!')
+    });
+
 });
